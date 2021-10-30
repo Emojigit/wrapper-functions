@@ -2,7 +2,7 @@
     "name": "Wrapper Functions",
     "description": "",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",

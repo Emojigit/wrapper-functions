@@ -3,14 +3,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*",
-        "motorbit": "github:tinkertanker/pxt-motorbit#v2.0.0"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
+        "wrappers.cpp",
         "wrappers.ts"
     ],
     "testFiles": [
